@@ -1,0 +1,25 @@
+.download_resume_button {
+    width: 250px;
+    height: 60px;
+    background-color: #A6A6A6;
+    border-radius: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 22px;
+    color: #161414;
+    margin-bottom: 20px;
+}
+
+.resume_section {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.skill_list {
+    font-size: 22px;
+    color: #A6A6A6;
+}
+
