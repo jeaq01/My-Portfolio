@@ -1,7 +1,7 @@
 # Julio Alvarado's portfolio
 
 # Description
-## A porfolio with some of my previous jobs. 
+## A portfolio with some of my previous jobs. 
 
 #  Usage
 ##  A portfolio with different projects using a variety of technologies like HTML, CSS,  Javascript, SQL, NoSQL, NODE and EXPRESS.JS 
